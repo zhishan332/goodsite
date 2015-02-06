@@ -1,0 +1,15 @@
+@charset "utf-8";
+/*正文颜色#555，链接颜色#777，鼠标放上#52aef5,标题颜色#333，不重要文字颜色#d1d0df,鼠标放上#aaa*/
+html, body, div, p, span, label, img, a, ol, ul, dl, dt, dd, li, table, tr, td, th, tbody, thead, tfoot, form, fieldset, legent, h1, h2, h3, h4, h5, h6, strong, b, em, blockquote, cite, pre, code, hr, br, input, button, textarea,article, aside, details, figcaption, figure, footer, header, group, menu, nav, section { padding:0px; margin:0px; }
+a { border:0 none; cursor:pointer; }
+ol, ul { list-style-type:none; }
+em{ font-style:normal;}
+a:link, a:visited { text-decoration:none; }
+.clearfix:after{clear:both; content:""; display:block; height:0; visibility:hidden; line-height:0;}
+.clearfix { zoom:1; }
+.clear { clear:both; height:0; width:0; display:block; visibility:hidden; overflow:hidden;}
+a{color: #777777;text-decoration: none;}
+a:hover{color: #52aef5;text-decoration: none;}
+a.blue{color: #52aef5;text-decoration: none;}
+a.blue:hover{color: #52aef5;text-decoration: none;}
+body{ font-family:Microsoft YaHei,SimHei,Arial,Verdana,sans-serif;font-size: 12px;background-color: #f4f4f4;color: #555555;}
